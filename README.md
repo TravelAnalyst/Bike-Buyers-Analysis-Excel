@@ -1,6 +1,6 @@
 # Bike-Buyers-Analysis-Excel
 
-Company is trying to create an ad campaign to target the customers who are
+Bike Company is trying to create an ad campaign to target the customers who are
 the most likely to buy a bike as well to promote the importance of using
 bike as transportation to the ones who are less likely to be the customers.
 
@@ -9,6 +9,7 @@ Main task
 Create dynamic dashboard that answers following questions:
 
 Questions to answer
+
 1)Average income of people who bought a bike or not?
 2)Does the commuting distance affects customers decision to buy a bike?
 3)Does age plays a role in customers decision to buy a bike? 
