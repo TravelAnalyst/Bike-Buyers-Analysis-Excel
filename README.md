@@ -11,7 +11,9 @@ Create dynamic dashboard that answers following questions:
 Questions to answer
 
 1)Average income of people who bought a bike or not?
+
 2)Does the commuting distance affects customers decision to buy a bike?
+
 3)Does age plays a role in customers decision to buy a bike? 
 
 
@@ -19,8 +21,11 @@ Dataset includes demographic of the people who bought a bike and the ones who di
 
 Steps performed
 Cleaning data
+
 -Finding duplicates
+
 -Reformating columns
+
 -Performing IF statement for column M 
 (IF(L18>54,"Old",IF(L4>31,"Middle Age",IF(L4<31,"Adolescent","Invalid"))
 
@@ -43,5 +48,6 @@ representing majority of customers who bought the bike.
 4)Dynamic dashboard has been created by using slicers that filter out Marital Status, Region & Ocupation.
 
 Overall conclusion
+
 Middle Age customers are the ones the most interested to buy a bike. They can be used as a focused group to target in order to increase sales and profit.
 Adolescent group(particualry females) are the least likely to buy a bike. They should be targeted as a focused group to raise awareness.
